@@ -5,8 +5,8 @@ metadata:
   annotations:
     scenarios.ai.sap.com/description: "Introduction to SAP AI Core I533029"
     scenarios.ai.sap.com/name: "Tutorial I533029"
-    executables.ai.sap.com/description: "Greets the user"
-    executables.ai.sap.com/name: "Hello Pipeline"
+    executables.ai.sap.com/description: "Greets the user I533029"
+    executables.ai.sap.com/name: "Hello Pipeline I533029"
   labels:
     scenarios.ai.sap.com/id: "learning"
     ai.sap.com/version: "1.0"
